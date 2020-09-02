@@ -12,6 +12,7 @@ This is the first file in this repo.
 ##Website Contents
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lorem Ipsum Dolor Sit Amet.
 <<<<<<< HEAD
 >>>>>>> Adding some Ipsum
@@ -20,6 +21,10 @@ Lorem Ipsum Dolor Sit Amet.
 Even more text here!
 >>>>>>> adding more text
 =======
+=======
+Here are the files in the website.
+
+>>>>>>> A few more changes for the website
 1. index.html
 
 >>>>>>> A few changes for the website
