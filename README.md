@@ -9,8 +9,9 @@ This is the first file in this repo.
 >>>>>>> Initial Commit
 =======
 
-##Ipsum Below
+##Website Contents
 
+<<<<<<< HEAD
 Lorem Ipsum Dolor Sit Amet.
 <<<<<<< HEAD
 >>>>>>> Adding some Ipsum
@@ -18,3 +19,7 @@ Lorem Ipsum Dolor Sit Amet.
 
 Even more text here!
 >>>>>>> adding more text
+=======
+1. index.html
+
+>>>>>>> A few changes for the website
