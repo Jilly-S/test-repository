@@ -12,4 +12,9 @@ This is the first file in this repo.
 ##Ipsum Below
 
 Lorem Ipsum Dolor Sit Amet.
+<<<<<<< HEAD
 >>>>>>> Adding some Ipsum
+=======
+
+Even more text here!
+>>>>>>> adding more text
