@@ -27,4 +27,8 @@ Here are the files in the website.
 >>>>>>> A few more changes for the website
 1. index.html
 
+<<<<<<< HEAD
 >>>>>>> A few changes for the website
+=======
+I'm making a change here
+>>>>>>> test files
