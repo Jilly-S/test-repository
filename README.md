@@ -28,7 +28,11 @@ Here are the files in the website.
 1. index.html
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> A few changes for the website
 =======
 I'm making a change here
 >>>>>>> test files
+=======
+Some info here
+>>>>>>> add README.md changes
